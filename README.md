@@ -36,13 +36,19 @@ proxy_3.txt对应token.txt第三行
 ## Nodego bot 1.0 怎么运行？
 注意linux和mac必须先打开终端cd到当前目录
 #### mac
+```bash
 chmod +x Nodego_Mac
 ./Nodego_Mac
+```
 
 #### linux
+```bash
 chmod +x Nodego_Linux
 ./Nodego_Linux
+```
 
 #### windows
+```txt
 #方法1:双击Nodego.exe
 #方法2:日志方式运行 cmd到当前目录 然后.\Nodego.exe
+```
